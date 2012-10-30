@@ -328,7 +328,7 @@ table.staff td.nobr:last-child { border-right: 1px solid #3b3b3b !important; }
 #bookmarks span br { display: none; } /* Removes unnecessary break on bookmarks.php main_column */
 #torrents #content .filter_torrents input.inputtext { width: 600px; } /* Fixes width of search and tag boxes on torrents.php */
 #wiki #content .main_column .box .pad div { font-size: 7pt; }
-#inbox form#searchbox { margin: 0; }
+#inbox form#searchbox { margin: 0px 0px 10px 0px; }
 #user table { width: 100%; }
 #forums #content blockquote { max-width: 765px; margin-bottom: 5px; }
 .recent { margin-bottom: 10px !important; padding: 0; -webkit-box-shadow: 0 2px 3px rgba(0,0,0,0.1); -moz-box-shadow: 0 2px 3px rgba(0,0,0,0.1); }
