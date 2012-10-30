@@ -696,10 +696,10 @@ textarea.hidden { display: none; } /* Fixes textarea not being hidden properly (
 #user .box.pad { padding: 10px; background-color: rgba(50, 50, 50, 0.4); border: 1px solid #3B3B3B; -webkit-box-shadow: 0 2px 3px rgba(0,0,0,0.1); -moz-box-shadow: 0 2px 3px rgba(0,0,0,0.1); }
 #user .stats.nobullet { font-size: 7.5pt !important; } /* Sidebar font size on user's stat page */
 #artist div.sidebar div[style="text-align:center;padding:10px 0px;"] { padding: 0 !important; }
-#top10 div[style="text-align: right;"] { text-align: center !important; margin-bottom: 10px; margin-top: 10px;}
+#top10 div[style="text-align: right;"] { text-align: center !important; margin-bottom: 10px;}
 #disclaimer_container { display: none; }
 #footer br { display: none; }
-#collage #content form[method="get"], #top10 #content form { padding: 12px 15px; text-align: center; background-color: rgba(100, 100, 100, 0.15); -webkit-border-radius: 6px; -moz-border-radius: 6px; border: none !important; }
+#collage #content form[method="get"], #top10 #content form { padding: 12px 15px; text-align: center; background-color: rgba(100, 100, 100, 0.15); -webkit-border-radius: 6px; -moz-border-radius: 6px; border: none !important; margin-bottom: 10px; }
 #rules li[id="r2.2.0"] p { background: url("img/trump.png") no-repeat !important; width: 527px; height: 215px; margin-left: 179px; }
 #rules li[id="r2.2.0"] img, #rules li[id="r2.2.0"] em { display: none; }
 #rules span#Index { font-size: 7.5pt; margin-left: 5px; }
