@@ -256,7 +256,7 @@ textarea { display: block; width: 550px; height: 120px; font-size: 9pt; }
 .sidebar input[type="text"],.sidebar textarea { width: 202px; }
 .sidebar select, .sidebar input { margin-bottom: 8px; }
 .sidebar input#artistsimilar, .sidebar form input[type="submit"] { margin-bottom: 0; } /* Removes unnecessary bottom margin of "Add similar artist" sidebar */
-.sidebar ol { margin-left: 20px; }
+.sidebar ol { margin-left: 0px; }
 #content,.thin { overflow: hidden; clear: both; }
 #searchbars { float: left; width: 669px; height: 30px; padding: 12px 15px; text-align: center; background-color: rgba(100, 100, 100, 0.15); -webkit-border-radius: 6px; -moz-border-radius: 6px; }
 #searchbars input { width: 90px; height: 16px; padding: 6px; font-size: 7.5pt; color: #777; }
