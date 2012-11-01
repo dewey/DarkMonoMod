@@ -253,7 +253,7 @@ textarea { display: block; width: 550px; height: 120px; font-size: 9pt; }
 .box.box_albumart img:hover { border: 3px solid #4A8A7F; } /* Hover effect for album image in sidebar */
 #artist .sidebar div img { width: 194px; height: auto; border: 3px solid #3b3b3b; } /* Border for artist image in sidebar */
 #artist .sidebar div img:hover { border: 3px solid #4A8A7F; } /* Hover effect to artist image in sidebar */
-.sidebar input[type="text"],.sidebar textarea { width: 140px; }
+.sidebar input[type="text"],.sidebar textarea { width: 145px; }
 .sidebar select, .sidebar input { margin-bottom: 8px; }
 .sidebar input#artistsimilar, .sidebar form input[type="submit"] { margin-bottom: 0; } /* Removes unnecessary bottom margin of "Add similar artist" sidebar */
 .sidebar ol { margin-left: 0px; }
@@ -429,7 +429,7 @@ div.thin >h2+.linkbox+div table {
 	background: none;
 	-webkit-box-shadow: none;
 	-moz-box-shadow: none; }
-div.thin >h2+div table td,div.thin >h2+.linkbox+div table td,.filter_torrents table td { border: none !important; }
+div.thin >h2+div table td,div.thin >h2+.linkbox+div table td,.filter_torrents table td {}
 div.thin >h2+.linkbox+div td { padding-left: 10px !important; }
 div.thin >h2+.linkbox+div table td:first-child,.filter_torrents table:nth-child(1) td:first-child { font-size: 8pt; }
 #torrents .filter_torrents .box.pad table:nth-child(1) tr:first-child td,#requests div.thin div:nth-child(3) form table:nth-child(3) tr:first-child td,#collage div.thin form table:nth-child(2) tr:first-child td { padding-top: 0 !important; }
