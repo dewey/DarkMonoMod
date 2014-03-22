@@ -259,7 +259,7 @@ textarea { display: block; width: 550px; height: 120px; font-size: 9pt; }
 .sidebar ol { margin-left: 0px; }
 #content,.thin { overflow: hidden; clear: both; }
 #searchbars { float: left; width: 669px; padding: 12px 15px; text-align: center; background-color: rgba(100, 100, 100, 0.15); -webkit-border-radius: 6px; -moz-border-radius: 6px; }
-#searchbars input { width: 104px; font-size: 7.5pt; color: #777; }
+#searchbars input { width: 90px; font-size: 7.5pt; color: #777; }
 #searchbars ul,#searchbars form { display: inline; }
 #content { width: 960px; margin: 0 auto !important; overflow: hidden; line-height: 14px; text-align: justify; }
 #content .main_column,#content .sidebar { position: relative; }
