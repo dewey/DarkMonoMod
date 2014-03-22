@@ -432,7 +432,6 @@ div.thin >h2+.linkbox+div table {
 div.thin >h2+.linkbox+div table td,.filter_torrents table td { border: none !important; }
 div.thin >h2+.linkbox+div td { padding-left: 10px !important; }
 div.thin >h2+.linkbox+div table td:first-child,.filter_torrents table:nth-child(1) td:first-child { font-size: 8pt; }
-#torrents .filter_torrents .box.pad table:nth-child(1) tr:first-child td,#requests div.thin div:nth-child(3) form table:nth-child(3) tr:first-child td,#collage div.thin form table:nth-child(2) tr:first-child td { padding-top: 0 !important; }
 .filter_torrents table.cat_list td { width: 8% !important; text-align: center !important; }
 .filter_torrents table:nth-child(2) td { padding: 8px 0 7px 0 !important; background-color: rgba(0, 0, 0, 0.0); }
 .filter_torrents .cat_list[width="100%"] {
