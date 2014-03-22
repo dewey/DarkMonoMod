@@ -233,7 +233,7 @@ a,textarea,input { outline: none; }
 form textarea,form input { max-width: 80%; color: #666; }
 form#quickpostform textarea { height: 160px; margin: 0 auto; }
 div.thin br+h3 { margin: 10px 0px 10px 0px; }
-textarea,input[type="text"],input[type="password"],.select {
+textarea,input[type="text"],input[type="email"],input[type="search"],input[type="password"],.select {
 	width: 195px;
 	padding: 6px;
 	background-color: rgba(0, 0, 0, 0.3);
@@ -258,8 +258,8 @@ textarea { display: block; width: 550px; height: 120px; font-size: 9pt; }
 .sidebar input#artistsimilar, .sidebar form input[type="submit"] { margin-bottom: 0; } /* Removes unnecessary bottom margin of "Add similar artist" sidebar */
 .sidebar ol { margin-left: 0px; }
 #content,.thin { overflow: hidden; clear: both; }
-#searchbars { float: left; width: 669px; height: 30px; padding: 12px 15px; text-align: center; background-color: rgba(100, 100, 100, 0.15); -webkit-border-radius: 6px; -moz-border-radius: 6px; }
-#searchbars input { width: 90px; height: 16px; padding: 6px; font-size: 7.5pt; color: #777; }
+#searchbars { float: left; width: 669px; padding: 12px 15px; text-align: center; background-color: rgba(100, 100, 100, 0.15); -webkit-border-radius: 6px; -moz-border-radius: 6px; }
+#searchbars input { width: 104px; font-size: 7.5pt; color: #777; }
 #searchbars ul,#searchbars form { display: inline; }
 #content { width: 960px; margin: 0 auto !important; overflow: hidden; line-height: 14px; text-align: justify; }
 #content .main_column,#content .sidebar { position: relative; }
