@@ -543,7 +543,7 @@ td.colhead {
 div.permission_container { float: left; width: 32%; }
 div.permission_container:nth-child(2) { padding: 0px 2%; }
 div.permission_container>table { width: 100%; }
-div.pad ul, div.body ul, table.torrent_table blockquote > ul, div.pad ol, div.body ol { padding-left: 15px; }
+div.pad ul, div.body ul, table.torrent_table blockquote > ul, div.pad ol, div.body ol { padding-left: 25px; }
 #debug_database pre,#debug_report pre { white-space: pre-wrap; }
 #inbox textarea#body { display: inline; width: 580px; resize: vertical; } /* Fixes spacing on inbox.php and allows only vertical resizing */
 #quickpost input { width: 100%; width: 580px; } /* Fixes spacing on inbox.php message composition */
